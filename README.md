@@ -7,6 +7,11 @@
    ## 🧍🏻‍♀️About Me 
    - 🌐 Aspiring Full Stack Web Developer 
    -  🚀 Constantly learning and evolving my skills
+   
+  ##  My Projects
+### QR CODE GENERATOR
+ - 🌐 Generate coloured qr code with customisable size of any text.
+ - Built using js, react, html, css and qrserver.com.
   
 ## 🌐 Socials:
 
