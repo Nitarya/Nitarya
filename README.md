@@ -12,6 +12,7 @@
 ### QR CODE GENERATOR
  - 🌐 Generate coloured qr code with customisable size of any text.
  - Built using js, react, html, css and qrserver.com.
+ - Demo: https://nitarya-qr-code-generator.netlify.app/
   
 ## 🌐 Socials:
 
