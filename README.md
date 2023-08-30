@@ -20,6 +20,12 @@
  - Built using js, react, html, css and .
  - Demo: https://fetchweatherapp.netlify.app
  - Code: https://github.com/Nitarya/WeatherNow.git
+
+    ### Monster Killing Game
+ - 🌐 A game where player and monster try to kill each other and winner is declared.
+ - Built using js, html, css.
+ - Demo: https://monster-killing-project.netlify.app
+ - Code: https://github.com/Nitarya/Monster-Killing-Project.git
   
 ## 🌐 Socials:
 
