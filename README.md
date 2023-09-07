@@ -39,7 +39,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitya-arya-626139263)
 
 
-[![Twitter]( https://twitter.com/153Nitya?t=wCGVfNQ7EdtA4NkX7Wpu5g&s=08 )]
+[![Twitter](https://twitter.com/153Nitya?t=wCGVfNQ7EdtA4NkX7Wpu5g&s=08 )]
 
 
 
