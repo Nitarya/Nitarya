@@ -30,7 +30,7 @@
     ### Add Fav Movie
  - 🌐 A list is provided where you can add your fav movie and can add some extra details of it.
  - Built using js, html, css.
- - Demo: add-fav-movie.netlify.app
+ - Demo: https://add-fav-movie.netlify.app/
  - Code: https://github.com/Nitarya/Add-fav-movie.git
   
 ## 🌐 Socials:
