@@ -27,7 +27,7 @@
  - Demo: https://monster-killing-project.netlify.app
  - Code: https://github.com/Nitarya/Monster-Killing-Project.git
 
- -     ### Add Fav Movie
+    ### Add Fav Movie
  - 🌐 A list is provided where you can add your fav movie and can add some extra details of it.
  - Built using js, html, css.
  - Demo: add-fav-movie.netlify.app
