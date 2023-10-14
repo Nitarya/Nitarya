@@ -32,6 +32,12 @@
  - Built using js, html, css.
  - Demo: https://add-fav-movie.netlify.app/
  - Code: https://github.com/Nitarya/Add-fav-movie.git
+ - 
+    ### Cryptocurrency App
+ - 🌐 A app for finding all about cryptocurrency
+ -  - Built using js, html, css, react, postman.
+ - Demo: https://cryptocurrency-new-app.netlify.app/
+ - Code: https://github.com/Nitarya/Crypto-Currency.git
   
 ## 🌐 Socials:
 
