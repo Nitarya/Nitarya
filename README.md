@@ -45,6 +45,12 @@
  -  Built using js, html, css, react, postman.
  - Demo:https://quiz-site-new.netlify.app/
  - Code: https://github.com/Nitarya/Quiz-app.git
+
+ - ### Timer Game App
+ - 🌐 An app for setting timer for different activities.
+ -  Built using js, html, css, react.
+ - Demo: https://timer-game-new.netlify.app/
+ - Code: https://github.com/Nitarya/Timer-game.git
   
 ## 🌐 Socials:
 
