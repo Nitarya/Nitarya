@@ -52,7 +52,7 @@
  - Demo: https://timer-game-new.netlify.app/
  - Code: https://github.com/Nitarya/Timer-game.git
 
- - - ### Valentine App
+      ### Valentine App
  - 🌐 An app for proposing your valentine.
  -  Built using js, html, css, react.
  - Demo: http://valntine.lol/
