@@ -51,6 +51,12 @@
  -  Built using js, html, css, react.
  - Demo: https://timer-game-new.netlify.app/
  - Code: https://github.com/Nitarya/Timer-game.git
+
+ - - ### Valentine App
+ - 🌐 An app for proposing your valentine.
+ -  Built using js, html, css, react.
+ - Demo: http://valntine.lol/
+ - Code: https://github.com/Nitarya/Valentine-app.git
   
 ## 🌐 Socials:
 
