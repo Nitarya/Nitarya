@@ -63,6 +63,12 @@
  -  Built using js, html, css, react.
  - Demo: bot-for-self.netlify.app
  - Code: https://github.com/Nitarya/Self-Bot.git
+
+  ### Accordion for questions
+ - 🌐 An app for answering your questions.
+ -  Built using tailwind and react.
+ - Demo: https://accordion-for-questions.netlify.app/
+ - Code: https://github.com/Nitarya/Frequently-asked-questionss.git
   
 ## 🌐 Socials:
 
