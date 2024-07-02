@@ -11,9 +11,7 @@
    ## 🧍🏻‍♀️About Me 
    - 🌐 Aspiring Full Stack Web Developer 
    -  🚀 Constantly learning and evolving my skills
-
-     -## 🌐 Socials:
-
+     ## SOCIAL👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitya-arya-626139263)
 
