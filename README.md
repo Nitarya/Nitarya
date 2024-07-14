@@ -41,32 +41,27 @@
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
       <img src="https://github.com/Nitarya/Nitarya/blob/main/github%20photo.jpg?raw=true" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
-      <a href="http://valntine.lol/" style="color: #00adb5; text-decoration: none;">Valentine App
-    </a>
-   </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://github.com/Nitarya/Nitarya/blob/main/github%20photo.jpg?raw=true" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
-      <a href="https://nitarya-qr-code-generator.netlify.app/" style="color: #00adb5; text-decoration: none;">QR Code Generator
-    </a>
+      <a href="http://valntine.lol/" style="color: #00adb5; text-decoration: none;">Valentine App</a>
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
       <img src="https://github.com/Nitarya/Nitarya/blob/main/github%20photo.jpg?raw=true" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
-      <a href="https://quiz-site-new.netlify.app/" style="color: #00adb5; text-decoration: none;">Quiz App
-    </a>
+      <a href="https://nitarya-qr-code-generator.netlify.app/" style="color: #00adb5; text-decoration: none;">QR Code Generator</a>
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
       <img src="https://github.com/Nitarya/Nitarya/blob/main/github%20photo.jpg?raw=true" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
-      <a href="https://accordion-for-questions.netlify.app/" style="color: #00adb5; text-decoration: none;">Accordion for questions
-    </a>
+      <a href="https://quiz-site-new.netlify.app/" style="color: #00adb5; text-decoration: none;">Quiz App</a>
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
       <img src="https://github.com/Nitarya/Nitarya/blob/main/github%20photo.jpg?raw=true" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
-      <a href="https://timer-game-new.netlify.app/" style="color: #00adb5; text-decoration: none;">Timer Game App
-    </a>
+      <a href="https://accordion-for-questions.netlify.app/" style="color: #00adb5; text-decoration: none;">Accordion for questions</a>
     </li>
-   
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://github.com/Nitarya/Nitarya/blob/main/github%20photo.jpg?raw=true" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
+      <a href="https://timer-game-new.netlify.app/" style="color: #00adb5; text-decoration: none;">Timer Game App</a>
+    </li>
   </ul>
 </div>
+
    
   ##  My Projects
 ### QR CODE GENERATOR
