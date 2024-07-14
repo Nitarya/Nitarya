@@ -33,7 +33,7 @@
       <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="images/github photo.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
+      <img src="https://github.com/Nitarya/Nitarya/blob/main/github%20photo.jpg?raw=true" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
       <a href="https://app.netlify.com/sites/bot-for-self/overview" style="color: #00adb5; text-decoration: none;">Self AI BOT</a>
       <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
     </li>
