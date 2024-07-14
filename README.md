@@ -30,47 +30,39 @@
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
       <img src="https://github.com/Nitarya/Nitarya/blob/main/github%20photo.jpg?raw=true" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
       <a href="https://job-find-karo.netlify.app/" style="color: #00adb5; text-decoration: none;">JobFindKro</a>
-      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
       <img src="https://github.com/Nitarya/Nitarya/blob/main/github%20photo.jpg?raw=true" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
       <a href="https://app.netlify.com/sites/bot-for-self/overview" style="color: #00adb5; text-decoration: none;">Self AI BOT</a>
-      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
       <img src="https://github.com/Nitarya/Nitarya/blob/main/github%20photo.jpg?raw=true" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
       <a href="https://monster-killing-project.netlify.app" style="color: #00adb5; text-decoration: none;">Monster Killing Game</a>
-      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
       <img src="https://github.com/Nitarya/Nitarya/blob/main/github%20photo.jpg?raw=true" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
       <a href="http://valntine.lol/" style="color: #00adb5; text-decoration: none;">Valentine App
     </a>
-      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
-    </li>
+=    </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
       <img src="https://github.com/Nitarya/Nitarya/blob/main/github%20photo.jpg?raw=true" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
       <a href="https://nitarya-qr-code-generator.netlify.app/" style="color: #00adb5; text-decoration: none;">QR Code Generator
     </a>
-      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
       <img src="https://github.com/Nitarya/Nitarya/blob/main/github%20photo.jpg?raw=true" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
       <a href="https://quiz-site-new.netlify.app/" style="color: #00adb5; text-decoration: none;">Quiz App
     </a>
-      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
       <img src="https://github.com/Nitarya/Nitarya/blob/main/github%20photo.jpg?raw=true" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
       <a href="https://accordion-for-questions.netlify.app/" style="color: #00adb5; text-decoration: none;">Accordion for questions
     </a>
-      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
       <img src="https://github.com/Nitarya/Nitarya/blob/main/github%20photo.jpg?raw=true" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
       <a href="https://timer-game-new.netlify.app/" style="color: #00adb5; text-decoration: none;">Timer Game App
     </a>
-      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
     </li>
    
   </ul>
