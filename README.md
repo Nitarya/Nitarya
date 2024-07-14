@@ -124,16 +124,12 @@
       <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="path/to/your/image5.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
-      <a href=" https://nitarya-qr-code-generator.netlify.app/" style="color: #00adb5; text-decoration: none;">QR CODE GENERATOR</a>
+      <img src="path/to/your/image4.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
+      <a href="https://nitarya-qr-code-generator.netlify.app/" style="color: #00adb5; text-decoration: none;">QR Code Generator
+    </a>
       <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
     </li>
+   
   </ul>
 </div>
-
-  
-
-
-
-
 
