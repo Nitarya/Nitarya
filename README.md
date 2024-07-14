@@ -129,6 +129,24 @@
     </a>
       <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
     </li>
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="path/to/your/image4.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
+      <a href="https://quiz-site-new.netlify.app/" style="color: #00adb5; text-decoration: none;">Quiz App
+    </a>
+      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
+    </li>
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="path/to/your/image4.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
+      <a href="https://accordion-for-questions.netlify.app/" style="color: #00adb5; text-decoration: none;">Accordion for questions
+    </a>
+      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
+    </li>
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="path/to/your/image4.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
+      <a href="https://timer-game-new.netlify.app/" style="color: #00adb5; text-decoration: none;">Timer Game App
+    </a>
+      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
+    </li>
    
   </ul>
 </div>
