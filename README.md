@@ -18,6 +18,63 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%231a202c.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Anaconda](https://img.shields.io/badge/Anaconda-%2342B029.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra UI](https://img.shields.io/badge/Chakra_UI-%23319795.svg?style=for-the-badge&logo=chakra-ui&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white)![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge) ![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+
+# Top Contributed Repo
+
+## Nitya's GitHub Contributor Stats
+
+<div style="border: 1px solid #333; border-radius: 10px; padding: 20px; background-color: #1e1e1e; color: #e0e0e0; width: 300px;">
+  <h3 style="color: #ff79c6;">Repository <span style="color: gold;">⭐</span></h3>
+  <ul style="list-style: none; padding: 0;">
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="images/github photo.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
+      <a href="https://job-find-karo.netlify.app/" style="color: #00adb5; text-decoration: none;">JobFindKro</a>
+      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
+    </li>
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="images/github photo.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
+      <a href="https://app.netlify.com/sites/bot-for-self/overview" style="color: #00adb5; text-decoration: none;">Self AI BOT</a>
+      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
+    </li>
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="images/github photo.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
+      <a href="https://monster-killing-project.netlify.app" style="color: #00adb5; text-decoration: none;">Monster Killing Game</a>
+      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
+    </li>
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="images/github photo.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
+      <a href="http://valntine.lol/" style="color: #00adb5; text-decoration: none;">Valentine App
+    </a>
+      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
+    </li>
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="images/github photo.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
+      <a href="https://nitarya-qr-code-generator.netlify.app/" style="color: #00adb5; text-decoration: none;">QR Code Generator
+    </a>
+      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
+    </li>
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="images/github photo.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
+      <a href="https://quiz-site-new.netlify.app/" style="color: #00adb5; text-decoration: none;">Quiz App
+    </a>
+      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
+    </li>
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="images/github photo.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
+      <a href="https://accordion-for-questions.netlify.app/" style="color: #00adb5; text-decoration: none;">Accordion for questions
+    </a>
+      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
+    </li>
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="images/github photo.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
+      <a href="https://timer-game-new.netlify.app/" style="color: #00adb5; text-decoration: none;">Timer Game App
+    </a>
+      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
+    </li>
+   
+  </ul>
+</div>
    
   ##  My Projects
 ### QR CODE GENERATOR
@@ -95,59 +152,8 @@
  - Code: https://github.com/Nitarya/JobFindKaro.git
 
 
-# Top Contributed Repo
 
-## Nitya's GitHub Contributor Stats
 
-<div style="border: 1px solid #333; border-radius: 10px; padding: 20px; background-color: #1e1e1e; color: #e0e0e0; width: 300px;">
-  <h3 style="color: #ff79c6;">Repository <span style="color: gold;">⭐</span></h3>
-  <ul style="list-style: none; padding: 0;">
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="path/to/your/image1.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
-      <a href="https://job-find-karo.netlify.app/" style="color: #00adb5; text-decoration: none;">JobFindKro</a>
-      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
-    </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="path/to/your/image2.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
-      <a href="https://app.netlify.com/sites/bot-for-self/overview" style="color: #00adb5; text-decoration: none;">Self AI BOT</a>
-      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
-    </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="path/to/your/image3.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
-      <a href="https://monster-killing-project.netlify.app" style="color: #00adb5; text-decoration: none;">Monster Killing Game</a>
-      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
-    </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="path/to/your/image4.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
-      <a href="http://valntine.lol/" style="color: #00adb5; text-decoration: none;">Valentine App
-    </a>
-      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
-    </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="path/to/your/image4.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
-      <a href="https://nitarya-qr-code-generator.netlify.app/" style="color: #00adb5; text-decoration: none;">QR Code Generator
-    </a>
-      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
-    </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="path/to/your/image4.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
-      <a href="https://quiz-site-new.netlify.app/" style="color: #00adb5; text-decoration: none;">Quiz App
-    </a>
-      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
-    </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="path/to/your/image4.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
-      <a href="https://accordion-for-questions.netlify.app/" style="color: #00adb5; text-decoration: none;">Accordion for questions
-    </a>
-      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
-    </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="path/to/your/image4.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
-      <a href="https://timer-game-new.netlify.app/" style="color: #00adb5; text-decoration: none;">Timer Game App
-    </a>
-      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
-    </li>
-   
-  </ul>
-</div>
+
+
 
