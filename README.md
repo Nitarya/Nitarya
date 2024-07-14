@@ -93,6 +93,44 @@
  -  Built using html, css, react, redux and tailwind.
  - Demo: https://job-find-karo.netlify.app/
  - Code: https://github.com/Nitarya/JobFindKaro.git
+
+
+   # Top Contributed Repo
+
+## Nitya's GitHub Contributor Stats
+
+<div style="border: 1px solid #333; border-radius: 10px; padding: 20px; background-color: #1e1e1e; color: #e0e0e0; width: 300px;">
+  <h3 style="color: #ff79c6;">Repository <span style="color: gold;">⭐</span></h3>
+  <ul style="list-style: none; padding: 0;">
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="path/to/your/image1.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
+      <a href="https://job-find-karo.netlify.app/" style="color: #00adb5; text-decoration: none;">JobFindKro</a>
+      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
+    </li>
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="path/to/your/image2.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
+      <a href="https://app.netlify.com/sites/bot-for-self/overview" style="color: #00adb5; text-decoration: none;">Self AI BOT</a>
+      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
+    </li>
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="path/to/your/image3.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
+      <a href="https://monster-killing-project.netlify.app" style="color: #00adb5; text-decoration: none;">Monster Killing Game</a>
+      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
+    </li>
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="path/to/your/image4.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
+      <a href="http://valntine.lol/" style="color: #00adb5; text-decoration: none;">Valentine App
+    </a>
+      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
+    </li>
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="path/to/your/image5.jpg" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
+      <a href=" https://nitarya-qr-code-generator.netlify.app/" style="color: #00adb5; text-decoration: none;">QR CODE GENERATOR</a>
+      <span style="margin-left: auto; background-color: #00adb5; padding: 5px; border-radius: 50%;">B</span>
+    </li>
+  </ul>
+</div>
+
   
 
 
