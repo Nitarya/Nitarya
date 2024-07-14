@@ -43,7 +43,7 @@
       <img src="https://github.com/Nitarya/Nitarya/blob/main/github%20photo.jpg?raw=true" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
       <a href="http://valntine.lol/" style="color: #00adb5; text-decoration: none;">Valentine App
     </a>
-=    </li>
+   </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
       <img src="https://github.com/Nitarya/Nitarya/blob/main/github%20photo.jpg?raw=true" alt="Avatar" style="width: 20px; height: 20px; border-radius: 50%; margin-right: 10px;">
       <a href="https://nitarya-qr-code-generator.netlify.app/" style="color: #00adb5; text-decoration: none;">QR Code Generator
