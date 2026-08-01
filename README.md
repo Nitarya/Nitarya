@@ -82,71 +82,15 @@
 
    
   ##  My Projects
-### QR CODE GENERATOR
- - 🌐 Generate coloured qr code with customisable size of any text.
- - Built using js, react, html, css and qrserver.com.
- - Demo: https://nitarya-qr-code-generator.netlify.app/
- - Code: https://github.com/Nitarya/qr-code-generator
+### QR Code Generator
 
-   ### Weather App
- - 🌐Fetch data of any place by entering pin code of any place in India.
- - Built using js, react, html, css and .
- - Demo: https://fetchweatherapp.netlify.app
- - Code: https://github.com/Nitarya/WeatherNow.git
+Generate colored QR codes with customizable size for any text
+Built using JS, React, HTML, CSS and qrserver.com
+Demo: https://nitarya-qr-code-generator.netlify.app/
+Code: https://github.com/Nitarya/qr-code-generator
 
-    ### Monster Killing Game
- - 🌐 A game where player and monster try to kill each other and winner is declared.
- - Built using js, html, css.
- - Demo: https://monster-killing-project.netlify.app
- - Code: https://github.com/Nitarya/Monster-Killing-Project.git
+### Notifications Alert (AlertStream)
 
-    ### Add Fav Movie
- - 🌐 A list is provided where you can add your fav movie and can add some extra details of it.
- - Built using js, html, css.
- - Demo: https://add-fav-movie.netlify.app/
- - Code: https://github.com/Nitarya/Add-fav-movie.git
- - 
-    ### Cryptocurrency App
- - 🌐 A app for finding all about cryptocurrency
- -  Built using js, html, css, react, postman.
- - Demo: https://cryptocurrency-new-app.netlify.app/
- - Code: https://github.com/Nitarya/Crypto-Currency.git
-
- - 
-    ### Quiz App
- - 🌐 A app for organizing quiz and can be used for any online course.
- -  Built using js, html, css, react, postman.
- - Demo:https://quiz-site-new.netlify.app/
- - Code: https://github.com/Nitarya/Quiz-app.git
-
- - ### Timer Game App
- - 🌐 An app for setting timer for different activities.
- -  Built using js, html, css, react.
- - Demo: https://timer-game-new.netlify.app/
- - Code: https://github.com/Nitarya/Timer-game.git
-
- ### Self AI BOT
- - 🌐 An AI for your daily life.
- -  Built using js, html, css, react.
- - Demo: https://app.netlify.com/sites/bot-for-self/overview
- - Code: https://github.com/Nitarya/Self-Bot.git
-
-  ### AI Image Generator
- - 🌐 An app for generation images based on the text you provides.
- -  Built using tailwind ,react js and using open AI API.
- - Demo: https://self-ai-image-generator.netlify.app/
- - Code: https://github.com/Nitarya/AI-Image-Generator.git
-
-   
-    ### Job Find Karo
- - 🌐 To provide jobs to the needful and list of job seekers to the recruiter. To make finding jobs easier
- -  Built using html, css, react, redux and tailwind.
- - Demo: https://job-find-karo.netlify.app/
- - Code: https://github.com/Nitarya/JobFindKaro.git
-
-
-
-
-
-
-
+A notifications/alert feed application
+Demo: https://notifications-feed.netlify.app/
+Code: https://github.com/Nitarya/alertstream.git
