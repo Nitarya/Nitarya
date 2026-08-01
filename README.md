@@ -107,23 +107,11 @@
  - Demo: https://timer-game-new.netlify.app/
  - Code: https://github.com/Nitarya/Timer-game.git
 
-      ### Valentine App
- - 🌐 An app for proposing your valentine.
- -  Built using js, html, css, react.
- - Demo: http://valntine.lol/
- - Code: https://github.com/Nitarya/Valentine-app.git
-
  ### Self AI BOT
  - 🌐 An AI for your daily life.
  -  Built using js, html, css, react.
  - Demo: https://app.netlify.com/sites/bot-for-self/overview
  - Code: https://github.com/Nitarya/Self-Bot.git
-
-  ### Accordion for questions
- - 🌐 An app for answering your questions.
- -  Built using tailwind and react.
- - Demo: https://accordion-for-questions.netlify.app/
- - Code: https://github.com/Nitarya/Frequently-asked-questionss.git
 
   ### AI Image Generator
  - 🌐 An app for generation images based on the text you provides.
